@@ -32,22 +32,3 @@ function gameLogic(i){
             result.innerText = "YOU LOST";
          }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
